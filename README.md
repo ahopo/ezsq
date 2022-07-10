@@ -1,0 +1,2 @@
+# ezsq
+Easy Struct SQL
